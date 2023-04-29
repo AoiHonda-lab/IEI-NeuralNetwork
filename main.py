@@ -56,7 +56,7 @@ def main():
     pprint.pprint(model.state_dict())
     print()
 
-    history=model.fit_and_valid(train_loader, test_loader, criterion, optimizer, epochs=5, device=device)
+    history=model.fit_and_valid(train_loader, test_loader, criterion, optimizer, epochs=100, device=device)
     print()
 
     #Check the parameters after training
