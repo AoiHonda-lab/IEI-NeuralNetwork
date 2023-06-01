@@ -2,6 +2,15 @@ MIT License
 
 Copyright (c) 2022 honda-lab-kit
 
+If you use or refer to this program in your research or any other scholarly 
+work, please cite it appropriately. You can use the following citation as a 
+starting point:
+
+A. Honda, Y. Fukushima.  Program design and implementation of inclusion-exclusion 
+integral neural network, Proceedings of MDAI2023, 2023. 
+A. Honda, M. Itabashi, S. James. A neural network based on the inclusion-exclusion 
+integral and its application to data analysis. preprint. 
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
