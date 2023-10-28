@@ -9,7 +9,7 @@ from . import preprocessing_layer
 from . import output_layer
 from itertools import combinations
 import numpy as np
-from pytorchtools import EarlyStopping
+#from pytorchtools import EarlyStopping
 import csv
 
 class IE(nn.Module):
